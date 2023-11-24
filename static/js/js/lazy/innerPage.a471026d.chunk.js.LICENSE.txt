@@ -1,0 +1,7 @@
+/*!selectedFilterOptions.lagerort ?
+            !currentLocationData ?
+            selectedFilterOptions.lagerort = {values: []}
+                :
+            selectedFilterOptions.lagerort = [currentLocationData.id]
+                :
+             selectedFilterOptions.lagerort = selectedFilterOptions.lagerort*/

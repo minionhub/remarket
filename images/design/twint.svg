@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34px" height="26px">
+  <radialGradient id="a" cx="-12528.688" cy="-42.764" r=".638" gradientTransform="matrix(40.4665 0 0 45.568 507007.906 1951.094)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffcd05"/>
+    <stop offset=".092" stop-color="#ffc907"/>
+    <stop offset=".174" stop-color="#febd11"/>
+    <stop offset=".253" stop-color="#fbaa19"/>
+    <stop offset=".33" stop-color="#f7911e"/>
+    <stop offset=".405" stop-color="#f37121"/>
+    <stop offset=".479" stop-color="#f04c23"/>
+    <stop offset=".55" stop-color="#ee2a24"/>
+    <stop offset=".582" stop-color="#ed2224"/>
+    <stop offset="1" stop-color="#ed2224"/>
+  </radialGradient>
+  <path fill="url(#a)" d="M28.783 11.856l-5.573 8.196-2.878-4.401 3.304-4.95c.606-.893 1.926-3.287.405-6.614C22.805 1.409 20.15.11 17.818.11c-2.33 0-4.884 1.197-6.241 3.977-1.54 3.185-.203 5.68.385 6.513 0 0 1.824 2.698 3.364 4.97l2.492 3.59 3.75 5.723c.019.041.629.953 1.682.953.993 0 1.621-.893 1.684-1.015l8.775-12.984h-4.924v.02h-.002zm-10.984.203s-1.46-2.211-2.412-3.773c-1.014-1.664.121-4.159 2.412-4.159 2.29 0 3.426 2.475 2.412 4.159-.932 1.561-2.412 3.773-2.412 3.773z"/>
+  <radialGradient id="b" cx="-12522.08" cy="-42.74" r=".787" gradientTransform="matrix(30.0915 0 0 45.604 376808.375 1952.969)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#07b4e5"/>
+    <stop offset=".201" stop-color="#0cb0e2"/>
+    <stop offset=".39" stop-color="#06a5db"/>
+    <stop offset=".574" stop-color="#0e92cc"/>
+    <stop offset=".755" stop-color="#0778ba"/>
+    <stop offset=".932" stop-color="#0357a2"/>
+    <stop offset="1" stop-color="#164994"/>
+  </radialGradient>
+  <path fill="url(#b)" d="M12.409 19.789l-5.492-7.73S5.458 9.828 4.505 8.286c-1.014-1.664.121-4.16 2.412-4.16.284 0 .547.041.811.102L9.673.678A6.86 6.86 0 0 0 6.958.11C4.627.11 2.074 1.306.716 4.087c-1.54 3.185-.202 5.68.386 6.513l9.605 14.241c.082.122.689 1.016 1.702 1.016 1.033 0 1.621-.872 1.681-.994l2.899-4.423-2.493-3.672-2.087 3.021z"/>
+</svg>

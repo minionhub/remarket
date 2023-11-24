@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="25px" viewBox="0 0 21 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect x="0" y="0" width="21" height="25" id="rect-1"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="edit">
+            <image x="0" y="0" width="21" height="25" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAZCAYAAADe1WXtAAAABGdBTUEAALGPC/xhBQAAAnpJREFUSA3tlctrE1EUxr87cxPSNE0ptYldqKASuip0I9i6aDfGjYLYFKluRKhL/4Ai5B9QcJtVERc+wCIVVCooWqgvcFFEqLhpFkm7MKWlnTxm5vrd1I5jmQlp3XoXc09O7vmd7z6PwL+0/Pk4OhIjMFQDW+UF5N/YGicOzJybiiOZHifiOqBqcFUBy2tPcaPQkMjDwNj0GcC8AKV6WyYRWAfcWaxuf0JX5xWOvcaYF+zXYYgcBlJ12nMS/VMmsw1R81E6PjLrJvuQJjapaAPpzknGZDmowrgTEIIzVi5cw6JPSfRU6Ehp+xvc2gPU3UoIEYjaEYhEjpCzUHjCcUuE36Ta40x2Byi+07HSA7hwAKeK7O0tz+c39BrGUpd+A2dRtV4hFtMJ4gTfhWMvwooaOqT58WKtaPDGaWB3epKAc1ToAxojjH0Ix/qAiDmOZN9FvB6Vf0M9us/YBQLZYODKS1iSs8RhKj6E5YxoDd0L3LLnd6a8q5DAsZmqT0LTDIfuBeo17DQnIFoDNTUcmkyNcjrDPCnP0KbCpkx+/uz+rkf3j3JRKHESQhXhiPeIm5ep8DT/4aYET9kfHgztzfRxpzM8f8OQ4hQ3aAMu7kOtzAetoR+o7WBoRN8O9yvBvF3iMxqNJZillXaA4dDy9zV0H7sHw5SQqzUszNSRp9Y2W7DSicf63AXfrDbA4bvfRnDYkP/QsJU5uN+/pjYf2mbh2jduJ86Llaj0KD78Bg/6IBLyKt7ealFOQtK5qouXZJClZVGPkCgVHAxM/2Q5odPQdaftQ+6loCRe5TJ/P2c1tfVLLzB0pB9S8gExO7yB+zacbTTsH/hSLP0CFUrmUEXiS70AAAAASUVORK5CYII="></image>
+            <use fill="#F8E71C" fill-rule="evenodd" xlink:href="#rect-1"></use>
+        </g>
+    </g>
+</svg>

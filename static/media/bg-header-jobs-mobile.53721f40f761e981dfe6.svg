@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="330px" viewBox="0 0 375 330" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="43.7381629%" x2="100%" y2="70.806108%" id="linearGradient-1">
+            <stop stop-color="#01C978" offset="0%"></stop>
+            <stop stop-color="#02C99B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="125.639789%" y1="70.6267103%" x2="0%" y2="44.8276628%" id="linearGradient-2">
+            <stop stop-color="#02D1A1" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#02D17B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="375" height="330"></rect>
+            <path d="M375,53.0585938 L375,320.734364 C290.778646,326.63914 230.920573,329.591527 195.425781,329.591527 C184.325737,329.591527 179.4375,333.61652 159.849517,316.397033 C146.790861,304.917374 132.344929,290.371808 116.511719,272.760334 C78.9176316,211.37516 94.2666101,151.610911 175.145283,120.71748 C207.517178,108.352306 274.135417,85.7993437 375,53.0585938 Z" id="Rectangle-2" fill="url(#linearGradient-2)"></path>
+        </g>
+    </g>
+</svg>

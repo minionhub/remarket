@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="18px" viewBox="0 0 9 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>back-btn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="back-btn" fill-rule="nonzero" fill="#02CA95">
+            <path d="M6.892,17.41 L0.241,9.65 C-0.0796583279,9.27560799 -0.0796583279,8.72339201 0.241,8.349 L6.892,0.589 L8.411,1.891 L2.317,9 L8.41,16.108 L6.892,17.41 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

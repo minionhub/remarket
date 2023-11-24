@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="19" height="19" viewBox="0 0 19 19">
+    <defs>
+        <path id="b" d="M704.57 577.046h32.844a3 3 0 0 0 3-3v-35.577a3 3 0 0 0-3-3H622.152a3 3 0 0 0-3 3v35.577a3 3 0 0 0 3 3h66.278l5.949 5.949a3 3 0 0 0 4.242 0l5.95-5.95z"/>
+        <filter id="a" width="180%" height="300.4%" x="-40%" y="-85.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="7" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="15"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.163496377 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-632 -547)">
+        <path fill="#FFF" d="M0 510h1268v280H0z"/>
+        <text font-family="Raleway-SemiBold, Raleway" font-size="20" font-weight="500" transform="translate(0 510)">
+            <tspan x="441.74" y="69" fill="#000">In which general </tspan> <tspan x="603.54" y="69" fill="#00CB94">condition</tspan> <tspan x="692.44" y="69" fill="#000"> is the device?</tspan>
+        </text>
+        <path fill="#000" d="M0 0h1600v790H0z" opacity=".7"/>
+        <rect width="910" height="539" x="345" y="125.5" fill="#FFF" rx="3"/>
+        <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+        <use fill="#FFF" xlink:href="#b"/>
+        <g stroke="#00C99A" stroke-width="2" transform="translate(633 548.133)">
+            <circle cx="8.367" cy="8.367" r="8.367"/>
+            <path d="M4.681 8.137l3.045 2.458 4.327-5"/>
+        </g>
+    </g>
+</svg>

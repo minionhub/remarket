@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="211px" height="221px" viewBox="0 0 211 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>discount-star</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-72.7%" y="-44.8%" width="245.5%" height="245.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M142.494887,70.0584677 L124.548387,47.6259194 L124.548387,20.7580645 C124.548387,19.4849032 123.515097,18.4516129 122.241935,18.4516129 L95.3740806,18.4516129 L72.9415323,0.505112903 C72.0996774,-0.168370968 70.902629,-0.168370968 70.0607742,0.505112903 L47.6259194,18.4516129 L20.7580645,18.4516129 C19.4849032,18.4516129 18.4516129,19.4849032 18.4516129,20.7580645 L18.4516129,47.6259194 L0.505112903,70.0584677 C-0.168370968,70.9003226 -0.168370968,72.097371 0.505112903,72.9392258 L18.4516129,95.3740806 L18.4516129,122.241935 C18.4516129,123.515097 19.4849032,124.548387 20.7580645,124.548387 L47.6259194,124.548387 L70.0584677,142.494887 C70.4805484,142.831629 70.9902742,143 71.5,143 C72.0097258,143 72.5194516,142.831629 72.9415323,142.494887 L95.3740806,124.548387 L122.241935,124.548387 C123.515097,124.548387 124.548387,123.515097 124.548387,122.241935 L124.548387,95.3740806 L142.494887,72.9415323 C143.168371,72.097371 143.168371,70.902629 142.494887,70.0584677 Z" id="path-2"></path>
+        <filter x="-50.3%" y="-33.6%" width="200.7%" height="200.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="8" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0117647059   0 0 0 0 0.788235294   0 0 0 0 0.423529412  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HomePage" transform="translate(-792.000000, -3335.000000)" fill-rule="nonzero">
+            <g id="banner" transform="translate(234.000000, 3113.000000)">
+                <g id="discount-star" filter="url(#filter-1)" transform="translate(592.000000, 236.000000)">
+                    <circle id="Oval" fill="#444444" cx="53" cy="53" r="7"></circle>
+                    <circle id="Oval" fill="#444444" cx="90" cy="90" r="7"></circle>
+                    <g id="Shape">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

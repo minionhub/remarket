@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="809px" height="790px" viewBox="0 0 809 790" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Triangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#DDF8F0" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#DDF8F0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M493.774847,54.5704508 L797.837334,644.576861 C823.137454,693.669511 803.849798,753.976768 754.757148,779.276889 C740.590634,786.577666 724.884336,790.386782 708.947227,790.386782 L100.822254,790.386782 C45.5937785,790.386782 0.82225351,745.615257 0.82225351,690.386782 C0.82225351,674.449673 4.6313693,658.743374 11.9321464,644.576861 L315.994633,54.5704508 C341.294754,5.47780024 401.60201,-13.8098561 450.694661,11.4902646 C469.186057,21.0198896 484.245222,36.079055 493.774847,54.5704508 Z" id="Triangle" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

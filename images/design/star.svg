@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15.640625" cy="16.335625" r="15.5"></circle>
+        <filter x="-6.5%" y="-3.2%" width="112.9%" height="112.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.103572237 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ff" transform="translate(-97.000000, -117.000000)">
+            <g id="Group-13" transform="translate(98.000000, 117.000000)">
+                <g id="Oval">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <polygon id="Star" stroke="#00C27E" fill="#00C27E" points="15.640625 21.4283298 11.1839032 23.1938146 11.4857763 18.4096555 8.42949773 14.7166261 13.0727873 13.5253379 15.640625 9.47743542 18.2084627 13.5253379 22.8517523 14.7166261 19.7954737 18.4096555 20.0973468 23.1938146"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

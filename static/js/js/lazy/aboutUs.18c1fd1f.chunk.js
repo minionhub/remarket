@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkassessment=self.webpackChunkassessment||[]).push([[1839],{21843:(s,e,a)=>{a.r(e),a.d(e,{default:()=>t});a(47313);var n=a(46417);const c=()=>(0,n.jsxs)("div",{className:"container",children:[(0,n.jsx)("h1",{children:"\xdcber uns"}),(0,n.jsx)("div",{className:"quality"})]});c.defaultProps={};const t=c}}]);

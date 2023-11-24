@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="57" viewBox="0 0 63 57">
+    <g fill="none" fill-rule="evenodd" stroke="#111" stroke-width="3" transform="translate(2 2)">
+        <path stroke-linecap="square" d="M45.544 33.671l3.809 3.808a3.928 3.928 0 0 1-5.555 5.554l-3.807-3.806M34.474 44.744l1.787 1.788a3.9 3.9 0 0 1-2.761 6.657M4.5 24.5v-6l-4-4 14-14 3 3h5"/>
+        <rect width="9.312" height="7.855" x="7.754" y="35.232" stroke-linecap="square" rx="3.928" transform="rotate(-45 12.41 39.16)"/>
+        <rect width="8.544" height="7.8" x="20.065" y="45.437" stroke-linecap="square" rx="3.9" transform="rotate(-45 24.337 49.337)"/>
+        <path stroke-linecap="square" d="M10.131 35.883l-.58.58a3.794 3.794 0 0 1-5.5-.136 3.8 3.8 0 0 1 .092-5.195l.58-.593a3.8 3.8 0 0 1 6.52 2.613 3.8 3.8 0 0 1-1.112 2.731z"/>
+        <rect width="8.212" height="7.8" x="14.231" y="40.406" stroke-linecap="square" rx="3.9" transform="rotate(-45 18.337 44.306)"/>
+        <path stroke-linecap="square" d="M43.037 42.276a3.9 3.9 0 1 1-5.515 5.516L36.23 46.5"/>
+        <path d="M48.276 36.4a3.8 3.8 0 0 0 5.5-.136 3.8 3.8 0 0 0-.092-5.195L40.976 18.01"/>
+        <path stroke-linecap="square" d="M54.5 24.5v-6l4-4-14-14-3 3h-6.553c-3.2 0-6.27 1.271-8.534 3.535l-9.206 9.571a3.4 3.4 0 0 0 4.349 5.185l9.8-6.318a8.908 8.908 0 0 0 13.483-.14"/>
+    </g>
+</svg>

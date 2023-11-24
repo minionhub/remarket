@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17" height="18" viewBox="0 0 17 18">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#B8D4CB" d="M0 5h17v8H0zM1 0h3v3H1zM1 15h3v3H1zM5 0h3v3H5zM5 15h3v3H5zM9 0h3v3H9zM9 15h3v3H9zM13 0h3v3h-3zM13 15h3v3h-3z"/>
+        <text fill="#FFF" font-family="Raleway-Bold, Raleway" font-size="6" font-weight="bold">
+            <tspan x="2" y="11">RAM</tspan>
+        </text>
+    </g>
+</svg>

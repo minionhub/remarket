@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="31px" viewBox="0 0 58 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>8device</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="8device" fill="#000000" fill-rule="nonzero">
+            <path d="M52.945,27.706 L52.945,1.889 C52.945,0.68 52.29,0 51.055,0 L6.932,0 C5.697,0 5.042,0.63 5.042,1.889 L5.042,27.706 L0,27.706 C0.063,27.819 0.164,28.109 0.265,28.109 C0.265,28.109 2.875,29.683 6.114,29.897 C9.354,30.124 12.594,30.237 12.606,30.224 L45.381,30.224 C45.381,30.224 48.356,30.124 51.596,29.91 C54.836,29.695 57.446,28.121 57.446,28.121 C57.546,28.121 57.924,27.831 58,27.718 L52.945,27.718 L52.945,27.706 Z M7.564,2.519 L50.424,2.519 L50.424,27.706 L7.564,27.706 L7.564,2.519 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

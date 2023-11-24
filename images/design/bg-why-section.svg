@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="371px" height="264px" viewBox="0 0 371 264" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="68.327%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#02C97F" offset="0%"></stop>
+            <stop stop-color="#02C99B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.6819625%" y1="0%" x2="59.2800735%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#02C97F" offset="0%"></stop>
+            <stop stop-color="#02C99B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,0 L368,0 C369.656854,1.01453063e-16 371,1.34314575 371,3 L371,264 L0,264 L0,0 Z" id="path-3"></path>
+        <linearGradient x1="55.4476572%" y1="58.103%" x2="78.720917%" y2="38.037%" id="linearGradient-5">
+            <stop stop-color="#12DB9F" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#02D998" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bg-why-section">
+            <g id="Group">
+                <g id="a-link" fill-rule="nonzero" fill="url(#linearGradient-2)">
+                    <path d="M0,0 L368,0 C369.656854,1.01453063e-16 371,1.34314575 371,3 L371,264 L0,264 L0,0 Z" id="a"></path>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="a"></g>
+                    <path d="M235.268048,-7.388 L661.418048,104.339 C691.335048,112.183 709.229048,142.793 701.386048,172.71 C699.902382,178.369181 697.541073,183.760915 694.388048,188.689 L573.791048,377.18 C563.498541,393.267304 545.717138,403.000108 526.619048,403 L224.297048,403 C193.604048,403 168.630048,378.294 168.300048,347.603 L165.070048,47.383 C164.737048,16.457 189.538048,-8.883 220.464048,-9.216 C225.458152,-9.26954436 230.436975,-8.65475852 235.268048,-7.388 Z" id="Shape" fill="url(#linearGradient-5)" fill-rule="nonzero" opacity="0.553" mask="url(#mask-4)" transform="translate(434.148524, 196.890391) scale(-1, 1) translate(-434.148524, -196.890391) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
